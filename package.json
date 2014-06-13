@@ -1,0 +1,20 @@
+{
+  "name": "mocha-funnynyan-reporter",
+  "version": "0.0.1",
+  "description": "The funniest nyan reporter with music, inspired by mocha default reporter",
+  "main": "funnynyan.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:markotom/mocha-funnynyan-reporter.git"
+  },
+  "author": "Marco Godínez <markotom@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/markotom/mocha-funnynyan-reporter/issues"
+  },
+  "homepage": "https://github.com/markotom/mocha-funnynyan-reporter",
+  "dependencies": {
+    "wav": "^0.1.2",
+    "mocha": "^1.20.1",
+    "speaker": "^0.1.2"
+  }
+}
